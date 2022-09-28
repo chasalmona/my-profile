@@ -1,0 +1,54 @@
+
+	body{
+	text-align: center;
+	color: black;
+	border: 1px solid #FF869E;
+	font-family: courrier new, monospace;
+	font-size: 15px; 
+	letter-spacing: 1px; 
+	background-image: url(images/fond2.JPG);
+	margin: 0;
+}
+h1{
+	border: 1px solid black;
+	text-align: center;
+	margin: 10px;
+	border-radius: 30px;
+	color: #A10035;
+	padding: 20px 25px;
+
+}
+div	{
+	text-align: center;
+	margin:0 20%;
+	font: monospace;
+
+}
+img	{
+	width: 300px;
+	height: 250px;
+	border-radius: 50px;
+	display: block;
+	margin: auto;
+}
+a {
+	align-content: center;
+	color: blue;
+	font-family: courrier  new, monospace; 
+
+}
+.container{
+	border: 1px solid #F8EDE3;
+	margin: 30px 22%;
+	box-shadow: 5px 5px 6px lightgrey;
+	background-color: #F8EDE3;
+	text-align: center;
+
+}
+#app{
+
+}
+
+.list-inline {
+	display: inline-block;
+}
